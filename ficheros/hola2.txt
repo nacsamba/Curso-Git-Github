@@ -1,2 +1,2 @@
-fases 1.1.- Establecer los objetivos de negocio
-fase 1.2.- Establecer objetivos de DS
+fase 1.1.
+fase 1.2
