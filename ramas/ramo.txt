@@ -1,0 +1,4 @@
+
+segunda edición: texto2
+tercera edición: incluimos texto 3 y borramos la linea 1 con el texto1
+cuarta edición: lo edito en la rama main: texto4
