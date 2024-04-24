@@ -1,1 +1,1 @@
-# Este repositorio contiene prácticas de un curso Git y GitHub.
+# Este repositorio contiene prácticas de un curso Git y GitHub. 2
